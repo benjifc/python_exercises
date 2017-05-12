@@ -1,5 +1,5 @@
 # Python Exercises
-1) EJERCICIO CUADRADO DE SUMAS
+## 1) EJERCICIO CUADRADO DE SUMAS
 
 Cree una función que te pida por pantalla dos números positivos y muestre por pantalla el cuadrado de la suma de los números que hay entre esos dos números inclusives. Tienes que controlar que el primer número siempre sea menor que el segundo, sino se mostrará por pantalla un mensaje de error. 
 
@@ -8,13 +8,13 @@ Ejemplo: def cuadrado_suma(1,3) -> El resultado debe ser el cálculo de aplicar 
 
 
 
-2) LA LOTERÍA 
+## 2) LA LOTERÍA 
 
 Cree una función la cual pida por pantalla 5 números y valide si esos 5 números corresponden al resultado del sorteo, mostrando por pantalla "Convinación Ganadora" ó "Convinación No Ganadora", seguido del resultado que tuvo el sorteo, por ejemplo: "Gracias por participar, el resultado del sorteo fue el 20,30,43,21,4". 
 Para saber los números del sorteo, antes de pedir por pantalla los 5 números al usuario, tendrás que generar de manera aleatoria 5 números y guardarlo en una variable o array los cuales comprobarás con respecto a los que introducirá el usuario.
 
 
-3) Log
+## 3) Log
 
 
 Partiendo del siguiente registro de LOG que estará guardado en un fichero llamado log.txt
@@ -47,7 +47,7 @@ file.close()
 Ejemplo: def tratar_log(ruta_file)
 
 
-5) Parking
+## 5) Parking
 
 Cree una función que calcule el precio a pagar en un parking y lo muestre por pantalla. Tienes que saber que:
 
